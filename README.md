@@ -626,6 +626,9 @@ Raw Data → Ingestion → Cleaning → Integration → Dimensional Modeling →
 
 It shows how SQL Server can be used to transform operational CRM/ERP data into a structured warehouse that is easier and safer to use for business analysis and reporting.
 
+## Diagrams: 
+![data architecture.drawio](data architecture.drawio.png)
+
 # 🔮 Possible Future Improvements
 
 Some potential extensions include:
