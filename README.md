@@ -631,7 +631,7 @@ It shows how SQL Server can be used to transform operational CRM/ERP data into a
 ![data_architecture](data_architecture.png)
 
 ## Data Flow :
-![data_flow2](data_flow2.png)
+![data_flow_2](data_flow_2.png)
 
 ## Data Integration :
 ![data_integration](data_integration.png)
